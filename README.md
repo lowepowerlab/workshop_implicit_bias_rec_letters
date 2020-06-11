@@ -22,15 +22,20 @@ Timing: 1 hr.
 1. [Slides](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters/raw/master/Background%20--%20Implicit%20Bias%20in%20Rec%20Letters.pptx)
 1. [Break-Out Activity](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters/raw/master/Breakout%20Activity%20-%20sample%20letters%20of%20rec.docx)
 1. [Guide for Activity Facilitators](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters/raw/master/Guide%20for%20Breakout%20Activity%20facilitators.docx)
-1. [Handout](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters/raw/master/Handout%20--%20guide%20to%20writing%20a%20letter%20of%20rec.pdf)
+1. [Handout - implicit bias and gender](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters/raw/master/Handout%20--%20guide%20to%20writing%20a%20letter%20of%20rec.pdf)
+1. [Handout - implicit bias and race](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf). Note that this isn't referenced in the workshop explicitly because I found this after the workshop was hosted in 2018. 
 
 Alternatively, [All files are zipped here](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters/raw/master/bias_workshop.zip)
+
+
+
 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 Any of the materials can be edited, improved, or tailored for a specific audience. Although we do not require it, we would appreciate the workshop being acknowledged as having been "originally designed by the UC Berkeley PMB department Diversity and Equity Committee".  
+
 
 
 
